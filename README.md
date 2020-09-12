@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/gerardosantanafranco/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN--blue?style=flat&logo=linkedin">
   </a>
-  <a href="https://gmail.com/">
+  <a href="mailto:gerardosantanaf@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail--blue?style=flat&logo=gmail">
   </a>
 </p>
