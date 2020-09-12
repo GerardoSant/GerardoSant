@@ -1,4 +1,4 @@
-![Gerardo Santana - Software Engineer](./images/title.gif)
+![Gerardo Santana - Software Engineer](https://github.com/GerardoSant/GerardoSant/blob/master/images/title.gif)
 
 
 ### Who am I?
