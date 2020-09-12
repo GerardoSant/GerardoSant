@@ -1,10 +1,10 @@
-![alt-text](https://github.com/GerardoSant/GerardoSant/blob/master/images/title.gif)
+![Gerardo Santana - Software Engineer](./images/title.gif)
 
 
 ### Who am I?
 
 - 🎓 Recently graduated as software engineer at [ULPGC](https://www.ulpgc.es/)
-- 💻 Passionate of back-end and front-end develop. 
+- 💻 Passionate of back-end and front-end development. 
 - ✍ Highly motivated to develop my skills and grow as a programmer. 
 
 
@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/gerardosantanafranco/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN--blue?style=flat&logo=linkedin">
   </a>
-  <a href="https://gmail.com/">
+  <a href="mailto:gerardosantanaf@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail--blue?style=flat&logo=gmail">
   </a>
 </p>
